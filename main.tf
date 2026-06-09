@@ -11,7 +11,7 @@ provider "azurerm" {
     
   }
 }
-resource "azurerm_resource_group" "rg" {
+resource "azurerm_resource_group" "r_g" {
   name = "rg1"
   location = "eastus"
 }
