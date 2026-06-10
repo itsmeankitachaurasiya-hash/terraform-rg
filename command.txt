@@ -1,0 +1,17 @@
+   4 git init
+   5 ls -force                                                                                                                 
+   6 git add .                                                                                                                 
+   7 git commit -m "add main file"                                                                                             
+   8 git status                                                                                                                
+   9 git remote add origin https://github.com/itsmeankitachaurasiya-hash/terraform-rg.git                                      
+  10 git status                                                                                                                
+  11 git --help                                                                                                                
+  12 git push                                                                                                                  
+  13  git push --set-upstream origin master                                                                                    
+  14 git status 
+  15 git branch                                                                                                                
+  16 git log --oneline --graph --all                                                                                           
+  17 git fetch origin...                                                                                                       
+  18 git checkout main...                                                                                                      
+  19 git status                                                                                                                
+  20 git push origin main      
