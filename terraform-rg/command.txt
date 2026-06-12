@@ -1,17 +1,57 @@
-   4 git init
-   5 ls -force                                                                                                                 
-   6 git add .                                                                                                                 
-   7 git commit -m "add main file"                                                                                             
-   8 git status                                                                                                                
-   9 git remote add origin https://github.com/itsmeankitachaurasiya-hash/terraform-rg.git                                      
-  10 git status                                                                                                                
-  11 git --help                                                                                                                
-  12 git push                                                                                                                  
-  13  git push --set-upstream origin master                                                                                    
-  14 git status 
-  15 git branch                                                                                                                
-  16 git log --oneline --graph --all                                                                                           
-  17 git fetch origin...                                                                                                       
-  18 git checkout main...                                                                                                      
-  19 git status                                                                                                                
-  20 git push origin main      
+  2 git branch                                                                                                                
+   3 git log --oneline --graph --all                                                                                           
+   4 git fetch origin...                                                                                                       
+   5 git checkout main...                                                                                                      
+   6 git status                                                                                                                
+   7 git push origin main                                                                                                      
+   8 history                                                                                                                   
+   9 git add .                                                                                                                 
+  10 git commit -m"add storage account"                                                                                        
+  11 git status                                                                                                                
+  12 git push --set -upstream origin main                                                                                      
+  13 git status                                                                                                                
+  14 git push                                                                                                                  
+  15 history                                                                                                                   
+  16 git clone https://github.com/itsmeankitachaurasiya-hash/azure-resources-created-by-terraform.git                          
+  17 cd azurerm-resources-created-by-terraform                                                                                 
+  18 cd azure-resources-created-by-terraform                                                                                   
+  19 git init                                                                                                                  
+  20 git status                                                                                                                
+  21 git add .                                                                                                                 
+  22 git add *                                                                                                                 
+  23 git status                                                                                                                
+  24 git restore --staged rg.tf                                                                                                
+  25 git status                                                                                                                
+  26 git restore --staged provider.tf                                                                                          
+  27 git status                                                                                                                
+  28 git add *                                                                                                                 
+  29 git status                                                                                                                
+  30 git commit -m "upda"                                                                                                      
+  31 git status                                                                                                                
+  32 git push                                                                                                                  
+  33 cd ..                                                                                                                     
+  34 cd terraform-rg                                                                                                           
+  35 git add *                                                                                                                 
+  36 git commit -m"commit"                                                                                                     
+  37 git push                                                                                                                  
+  38 cd azure-resources-created-by-terraform                                                                                   
+  39 cd ..                                                                                                                     
+  40 cd azure-resources-created-by-terraform                                                                                   
+  41 git status                                                                                                                
+  42 git checkout main                                                                                                         
+  43 git pull origin main                                                                                                      
+  44 git checkout -b master1                                                                                                   
+  45 git branch                                                                                                                
+  46 ls -force                                                                                                                 
+  47 git push -u origin master1                                                                                                
+  48 git branch                                                                                                                
+  49 git push -u origin master1                                                                                                
+  50 git push                                                                                                                  
+  51 git branch -r                                                                                                             
+  52 git checkout master1                                                                                                      
+  53 git checkout main                                                                                                         
+  54 git branch                                                                                                                
+  55 git branch -d master1                                                                                                     
+  56 git push origin --delete master1                                                                                          
+  57 git branch                                                                                                                
+  58 git branch -r      
